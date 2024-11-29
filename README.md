@@ -1,2 +1,2 @@
-# PRODIGY_DS_02
-"PRODIGY_DS_02" is a program that performs exploratory data analysis (EDA) on the Titanic dataset from Kaggle. It provides an in-depth analysis and visualization of passenger data, including trends in survival rates based on factors such as gender, age, number of siblings, parents, children, embarkation point, and class. Gain insights into the tragic ship's journey with this powerful EDA tool. Perfect for data scientists and analysts.
+# EDA ON TITANIC DATASET
+"EDA On Titanic Dataset" is a program that performs exploratory data analysis (EDA) on the Titanic dataset from Kaggle. It provides an in-depth analysis and visualization of passenger data, including trends in survival rates based on factors such as gender, age, number of siblings, parents, children, embarkation point, and class. Gain insights into the tragic ship's journey with this powerful EDA tool. Perfect for data scientists and analysts.
